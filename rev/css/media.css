@@ -1,0 +1,14 @@
+@media screen and (max-width:600px){
+    .img{
+        max-height: 100px;
+        margin-bottom: 3.5rem;
+    }
+    .body{
+        height:750px;
+        width: 100%;
+    }
+    .invest{
+        margin: 0;
+    }
+    
+}
